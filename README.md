@@ -11,8 +11,8 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-#                                                                    欢迎来到王中振的博客
-##                                                                        这里啥都没有
+#                                            欢迎来到王中振的博客
+##                                              这里啥都没有
 ### 
 
 - Bulleted
