@@ -14,10 +14,13 @@ Syntax highlighted code block
 #                                            *欢迎来到王中振的博客*
 ##                                              **这里啥都没有**
      1. 来自哪里
-      - 家乡 <https://baike.baidu.com/item/%E5%AE%9A%E9%99%B6%E5%8C%BA/17754606?fromtitle=%E5%AE%9A%E9%99%B6%E5%8E%BF&fromid=2462531&fr=aladdin>
+      - [家乡][1]
       - 民族 <https://baike.baidu.com/item/%E6%B1%89%E6%97%8F/130605?fr=aladdin>
 ### 
 
+
+
+[1] :https://baike.baidu.com/item/%E5%AE%9A%E9%99%B6%E5%8C%BA/17754606?fromtitle=%E5%AE%9A%E9%99%B6%E5%8E%BF&fromid=2462531&fr=aladdin
 - Bulleted
 - List
 
